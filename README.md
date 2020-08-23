@@ -2,7 +2,8 @@
 
 Tool untuk menentukan kecocokan pasangan laki-laki dengan perempuan. berdasarkan Weton Jawa.
 
-Gunakan sewajarnya, boleh percaya boleh tidak. 
+Gunakan sewajarnya, boleh percaya boleh tidak.
+
 sumber : https://www.99.co/blog/indonesia/cara-menghitung-weton-jodoh/
 ## Penggunaan
 
